@@ -4,12 +4,11 @@
 * Write a bash script that stores initial file hashes
 * On re-run, compares hashes and logs discrepancies
 
-[monitorshell.sh] https://github.com
+[monitorshell.sh] (https://github.com)
 
 | File | Description |
 | monitorshell.sh | Shell script to be executed via cronjob. To feed in argument monitorfiles.txt which consist of list of files to be monitored|
-```monitorshell.sh monitorfiles.txt
-``` 
+
 
 
 ## Task B: Automation and Logging
