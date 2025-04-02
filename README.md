@@ -95,8 +95,8 @@ b7aca1386c9da114613d7533c696d40a0ec56d0f51b04280ea82b6b05904a802  /etc/group
 2025-04-02 12:00:01 - OldHash: 344bb41e22c3c7123fd2b6eb3bbabb313a6a130e302c123065aa42c563fea830
 2025-04-02 12:00:01 - NewHash: 7921708e98fb1fb1cb69203d02e1eb889db1dfeeb75fae802722afa06bad1b2a
 2025-04-02 12:00:01 - New Hash updated
-2025-04-02 12:00:04 - Email notification sent to jackchow30@me.com
-2025-04-02 12:00:06 - Email notification sent to jackcch8773@gmail.com
+2025-04-02 12:00:04 - Email notification sent to john@me.com
+2025-04-02 12:00:06 - Email notification sent to mister@abc.com
 2025-04-02 12:00:06 - b7aca1386c9da114613d7533c696d40a0ec56d0f51b04280ea82b6b05904a802
 2025-04-02 12:00:06 - 84a686124b14653e4bfaeedf147b8eb8e4bff337d8a8dc141682da55c8281d12
 2025-04-02 12:00:06 - /etc/group
