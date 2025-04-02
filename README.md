@@ -7,8 +7,7 @@
 [monitorshell.sh](https://github.com)
 
 | File | Description |
-| monitorshell.sh | Shell script to be executed via cronjob. To feed in argument monitorfiles.txt which consist of list of files to be monitored|
-
+| monitorshell.sh| |
 
 
 ## Task B: Automation and Logging
