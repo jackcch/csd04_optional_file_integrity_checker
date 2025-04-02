@@ -1,0 +1,4 @@
+/etc/ssh/sshd_config
+/etc/passwd
+/etc/group
+/etc/somefiles
