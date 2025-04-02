@@ -104,6 +104,6 @@ b7aca1386c9da114613d7533c696d40a0ec56d0f51b04280ea82b6b05904a802  /etc/group
 2025-04-02 12:00:06 - OldHash: 84a686124b14653e4bfaeedf147b8eb8e4bff337d8a8dc141682da55c8281d12
 2025-04-02 12:00:06 - NewHash: b7aca1386c9da114613d7533c696d40a0ec56d0f51b04280ea82b6b05904a802
 2025-04-02 12:00:06 - New Hash updated
-2025-04-02 12:00:08 - Email notification sent to jackchow30@me.com
-2025-04-02 12:00:11 - Email notification sent to jackcch8773@gmail.com
+2025-04-02 12:00:08 - Email notification sent to john@me.com
+2025-04-02 12:00:11 - Email notification sent to mister@abc.com
 ```
